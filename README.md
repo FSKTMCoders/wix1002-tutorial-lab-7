@@ -1,4 +1,4 @@
-# wix1002-tutorial-lab-6
+# wix1002-tutorial-lab-7
 
 ### Name: <insert-your-name-here>
 ### Matric Number: <insert-your-matric-num-here>
